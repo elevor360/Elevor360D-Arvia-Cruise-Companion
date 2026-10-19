@@ -1,6 +1,6 @@
 {
   "title": "Arvia Passenger Information",
-  "updated": "2026-10-19 — V3 passenger guide and pre-cruise checks",
+  "updated": "2026-10-19 — V4 final-release checks and passenger guidance",
   "sections": [
     {
       "heading": "Welcome aboard Arvia",
@@ -77,6 +77,22 @@
     {
       "heading": "Keeping information current",
       "body": "Use Information → Check for information updates when connected. Publisher updates may replace guidance, but do not change your saved cabin details, packing list or personal planner."
+    },
+    {
+      "heading": "Before you leave home",
+      "body": "Check your passport or travel documents, booking details, travel insurance, any required visas, luggage labels and P&O Cruises check-in instructions. Keep important documents accessible when boarding."
+    },
+    {
+      "heading": "Onboard daily information",
+      "body": "Entertainment times, restaurant opening hours, charges, all-aboard times and excursions may change. This app does not provide live updates from the ship; check official onboard notices and crew announcements."
+    },
+    {
+      "heading": "Protect your saved records",
+      "body": "Your planner, checklist and spending records are stored locally in this browser or installed app. Use Settings → Backup before clearing browser data or changing devices. A backup file should be kept somewhere safe."
+    },
+    {
+      "heading": "Sharing this guide",
+      "body": "Use the Share App section to scan the QR code or share the link. Internet access is needed for someone to open the link for the first time; after installation, many personal features can be used offline."
     }
   ]
 }
