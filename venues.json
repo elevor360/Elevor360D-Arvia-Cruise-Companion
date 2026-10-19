@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Meridian Restaurant",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Main dining restaurant; check current dining arrangements."
+  },
+  {
+    "name": "Zenith Restaurant",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Main dining restaurant; check your assigned or flexible dining details."
+  },
+  {
+    "name": "Horizon Restaurant",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Buffet-style dining; hours and availability vary."
+  },
+  {
+    "name": "The Olive Grove",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Mediterranean-inspired dining; check reservations and charges."
+  },
+  {
+    "name": "The Keel & Cow",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Gastropub-style food and drinks; additional charges may apply."
+  },
+  {
+    "name": "Sindhu",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Indian-inspired speciality restaurant; booking and charges may apply."
+  },
+  {
+    "name": "The Epicurean",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Speciality dining; reservations and charges may apply."
+  },
+  {
+    "name": "The Glass House",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Wine bar and dining venue; selected items incur charges."
+  },
+  {
+    "name": "6th Street Diner",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "American-inspired dining; check onboard opening times."
+  },
+  {
+    "name": "Green & Co feat. Mizuhana",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Plant-focused and Asian-inspired dining; check current offering."
+  },
+  {
+    "name": "Taste 360",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Casual food venue; check the daily programme."
+  },
+  {
+    "name": "The Quays",
+    "category": "Dining",
+    "deck": "Check current Arvia deck plan",
+    "description": "Casual food-court dining; opening times vary."
+  },
+  {
+    "name": "SkyDome",
+    "category": "Entertainment",
+    "deck": "Check current Arvia deck plan",
+    "description": "Pool and entertainment venue; programme varies by sailing."
+  },
+  {
+    "name": "Headliners Theatre",
+    "category": "Entertainment",
+    "deck": "Check current Arvia deck plan",
+    "description": "Theatre performances and shows; consult daily schedule."
+  },
+  {
+    "name": "The 710 Club",
+    "category": "Entertainment",
+    "deck": "Check current Arvia deck plan",
+    "description": "Live music venue; check admission and reservation arrangements."
+  },
+  {
+    "name": "The Limelight Club",
+    "category": "Entertainment",
+    "deck": "Check current Arvia deck plan",
+    "description": "Dining and entertainment venue; booking and charges may apply."
+  },
+  {
+    "name": "Ocean Studios",
+    "category": "Entertainment",
+    "deck": "Check current Arvia deck plan",
+    "description": "Cinema screenings; check the onboard programme."
+  },
+  {
+    "name": "Altitude",
+    "category": "Activities",
+    "deck": "Check current Arvia deck plan",
+    "description": "Outdoor activity facilities; weather and restrictions apply."
+  },
+  {
+    "name": "Mission Control",
+    "category": "Activities",
+    "deck": "Check current Arvia deck plan",
+    "description": "Interactive escape-room experience; check availability and charges."
+  },
+  {
+    "name": "Swimming pools",
+    "category": "Facilities",
+    "deck": "Check current Arvia deck plan",
+    "description": "Check the official deck plan and onboard signage for pool locations."
+  },
+  {
+    "name": "Spa and fitness",
+    "category": "Facilities",
+    "deck": "Check current Arvia deck plan",
+    "description": "Wellness and fitness facilities; treatments may cost extra."
+  },
+  {
+    "name": "Children and teen facilities",
+    "category": "Facilities",
+    "deck": "Check current Arvia deck plan",
+    "description": "Age-specific activities; confirm registration and opening times."
+  }
+]

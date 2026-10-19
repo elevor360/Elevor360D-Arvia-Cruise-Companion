@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "image": "",
+  "video": "",
+  "link": "",
+  "caption": "Elevor360D Apps",
+  "placements": [
+    "home",
+    "venues",
+    "entertainment"
+  ]
+}

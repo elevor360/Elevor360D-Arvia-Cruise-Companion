@@ -1,0 +1,17 @@
+{
+  "name": "Elevor360D Arvia Cruise Companion",
+  "short_name": "Arvia Guide",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#102944",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

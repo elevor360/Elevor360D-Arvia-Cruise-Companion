@@ -1,0 +1,42 @@
+{
+  "title": "Arvia Passenger Information",
+  "updated": "2026-10-19 \u2014 V1 initial release",
+  "sections": [
+    {
+      "heading": "Welcome aboard Arvia",
+      "body": "Independent Elevor360D passenger guide. Not affiliated with P&O Cruises. Always follow current ship information and crew instructions."
+    },
+    {
+      "heading": "Official ship information",
+      "body": "P&O Cruises Arvia overview (internet required): https://www.pocruises.com/cruise-ships/arvia/overview\nUse the official ship website to find current deck plans and verify cabin, venue and muster locations. Links and ship facilities can change."
+    },
+    {
+      "heading": "Finding your way",
+      "body": "Save your cabin and muster information under Ship & Cabin. The schematic Deck Guide is for orientation only, not a verified cabin map. Venue decks remain unconfirmed until checked against the official deck plan."
+    },
+    {
+      "heading": "Dining",
+      "body": "Dining venues include Meridian, Zenith, Horizon, The Olive Grove, Sindhu, The Epicurean, The Keel & Cow and The Glass House. Check the onboard programme for current venues, prices and reservations."
+    },
+    {
+      "heading": "Entertainment",
+      "body": "Arvia offers venues such as SkyDome, Headliners Theatre, The 710 Club and Ocean Studios. Check the daily programme for schedules and availability."
+    },
+    {
+      "heading": "Preparing to sail",
+      "body": "Confirm your documents, check-in and boarding times, insurance, luggage requirements and current travel guidance before departure."
+    },
+    {
+      "heading": "Ports and sea days",
+      "body": "Add your personal plans and port calls in My Cruise. Always follow official all-aboard times and ship announcements."
+    },
+    {
+      "heading": "Offline app and backups",
+      "body": "Personal records are saved on this device. Use Settings to back them up before clearing browser data. Open the app online at least once before relying on offline access."
+    },
+    {
+      "heading": "Advertisements and updates",
+      "body": "Public information and advertisements are maintained by the app owner using JSON files in the GitHub repository. Checking for updates requires internet."
+    }
+  ]
+}
