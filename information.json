@@ -1,6 +1,6 @@
 {
   "title": "Arvia Passenger Information",
-  "updated": "2026-10-19 \u2014 V1 initial release",
+  "updated": "2026-10-19 — V3 passenger guide and pre-cruise checks",
   "sections": [
     {
       "heading": "Welcome aboard Arvia",
@@ -37,6 +37,46 @@
     {
       "heading": "Advertisements and updates",
       "body": "Public information and advertisements are maintained by the app owner using JSON files in the GitHub repository. Checking for updates requires internet."
+    },
+    {
+      "heading": "Dining reservations and dietary requirements",
+      "body": "Check the daily onboard programme or ask the restaurant team about opening hours, reservations, allergies, dietary requirements and any extra charges. Do not assume every restaurant is included in your fare."
+    },
+    {
+      "heading": "Entertainment and SkyDome",
+      "body": "Check the onboard entertainment programme for Headliners Theatre, SkyDome and The 710 Club. Some activities or performances may require advance booking or have age restrictions. Times and availability can change."
+    },
+    {
+      "heading": "Port-day essentials",
+      "body": "Before going ashore, check your all-aboard time, meeting place and any tender arrangements in the official daily information. Carry necessary documents, check local weather and allow time to return."
+    },
+    {
+      "heading": "Accessibility and family facilities",
+      "body": "For accessible routes, lifts, assistance and children’s facilities, consult the official ship information and crew. Individual services and opening times can vary."
+    },
+    {
+      "heading": "Using the app offline",
+      "body": "Open the app online before sailing to cache its files. Saved personal plans, packing and spending entries stay on this device. External P&O links and new manager updates require internet access. Make a backup before changing phones or clearing site data."
+    },
+    {
+      "heading": "Before you leave home",
+      "body": "Check passports or accepted travel documents, booking confirmation, travel insurance, luggage labels and embarkation instructions. Download or print anything you may need without mobile data."
+    },
+    {
+      "heading": "Your first afternoon onboard",
+      "body": "Follow the embarkation and safety instructions supplied by P&O Cruises. Find your cabin, check your assigned muster information and locate the venues you plan to visit. Opening times and activities may change."
+    },
+    {
+      "heading": "Planning a port day",
+      "body": "Check the official all-aboard time, local time zone, whether a tender is required and your meeting point before leaving the ship. Carry the documents advised by the cruise line."
+    },
+    {
+      "heading": "Food and dining planning",
+      "body": "Use My Cruise to record your own dining bookings and times. Confirm reservations, dietary requirements, opening hours and any extra charges with the ship; this guide does not make bookings."
+    },
+    {
+      "heading": "Keeping information current",
+      "body": "Use Information → Check for information updates when connected. Publisher updates may replace guidance, but do not change your saved cabin details, packing list or personal planner."
     }
   ]
 }
