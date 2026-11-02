@@ -16,3 +16,6 @@
   input[type=date] {border:0 !important;color:black !important}
   .muted {color:#444 !important}
 }
+
+/* Universal Advertising Manager V1 banner */
+.universal-ad{max-width:1000px;margin:16px auto 0;padding:12px 16px;background:white;border:1px solid #cbdce8;border-radius:12px;box-shadow:0 2px 9px #d9e0e6}.universal-ad[hidden]{display:none}.ua-head,.ua-controls{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12px;color:#53677a}.universal-ad a{display:block;text-align:center;color:#173049;text-decoration:none}.universal-ad img{display:block;width:100%;max-height:220px;object-fit:contain;border-radius:8px;margin:8px auto}.universal-ad #uaTitle{font-weight:650;margin:5px 0}.ua-controls{justify-content:center}.ua-controls button{padding:5px 14px;font-size:20px}.ua-controls span{min-width:100px;text-align:center}

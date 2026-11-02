@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "arvia-cruise-companion",
+  "group": "cruise",
+  "refreshMinutes": 30
+}
