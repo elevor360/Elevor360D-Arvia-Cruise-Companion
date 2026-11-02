@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rotationSeconds": 8,
+  "ads": [
+    {
+      "id": "arvia-example",
+      "title": "Discover more Elevor360D apps",
+      "type": "own",
+      "active": true,
+      "target": "cruise",
+      "appIds": [],
+      "start": "",
+      "end": "",
+      "url": "https://elevor360d.co.uk/",
+      "image": "images/elevor360d-promo.jpg"
+    }
+  ]
+}
