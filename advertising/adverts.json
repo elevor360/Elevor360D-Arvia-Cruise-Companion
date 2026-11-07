@@ -1,9 +1,10 @@
 {
   "version": 1,
+  "updatedAt": "2026-11-06T20:14:35.395Z",
   "rotationSeconds": 8,
   "ads": [
     {
-      "id": "arvia-example",
+      "id": "iona-example",
       "title": "Discover more Elevor360D apps",
       "type": "own",
       "active": true,
@@ -13,6 +14,21 @@
       "end": "",
       "url": "https://elevor360d.co.uk/",
       "image": "images/elevor360d-promo.jpg"
+    },
+    {
+      "id": "villa-select",
+      "type": "paid",
+      "title": "Villa Select – Your Perfect Villa Holiday",
+      "business": "travel",
+      "url": "https://www.paidonresults.net/c/63151/1/1735/0",
+      "image": "images/villa-select-banner.png",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 1,
+      "target": "all",
+      "appIds": [],
+      "description": ""
     }
   ]
 }
