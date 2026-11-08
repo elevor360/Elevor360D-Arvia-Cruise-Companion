@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T20:14:35.395Z",
+  "updatedAt": "2026-11-08T14:11:11.486Z",
   "rotationSeconds": 8,
   "ads": [
     {
@@ -22,6 +22,21 @@
       "business": "travel",
       "url": "https://www.paidonresults.net/c/63151/1/1735/0",
       "image": "images/villa-select-banner.png",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 1,
+      "target": "all",
+      "appIds": [],
+      "description": ""
+    },
+    {
+      "id": "cruise",
+      "type": "own",
+      "title": "Elevor360D Cruise Companion Apps",
+      "business": "Elevor360D",
+      "url": "https://elevor360d.co.uk/travel-companions.html",
+      "image": "images/Elevor360D Cruise Companions Banner.png",
       "active": true,
       "start": "",
       "end": "",
